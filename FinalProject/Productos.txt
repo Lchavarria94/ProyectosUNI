@@ -1,0 +1,12 @@
+1001#Cuaderno#4.5#150#
+1002#Folder#3.50#75
+1003#Hojas Bond#9.99#20
+1004#Lapicero#1.50#72
+1005#Lapiz#1.5#72#
+1006#Borrador#0.50#24
+1007#Corrector#3.50#24
+1008#Regla#1.50#24
+1009#Resaltador#3.50#72
+1010#Post it#5.50#24#1011#Portaminas#4.5#12#
+1011#Usb#20.0#24#
+1012#Portaminas#3.5#12#
